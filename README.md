@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm SHREYAS RK</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm SHREYAS RK</h1>
 <h3 align="center">Im Information Science student curently studing in NMAM Institute of Technology. </h3>
 <h3 align="center">Empowering Collaboration and Code Sharing for Developer.</h3>
 
