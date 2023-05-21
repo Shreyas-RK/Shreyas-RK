@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm SHREYAS RK</h1>
-<h3 align="center">Im Information Science student curently studing in NMAM Institute of Technology Empowering Collaboration and Code Sharing for Developers</h3>
+<h3 align="center">Im Information Science student curently studing in NMAM Institute of Technology. </h3>
+<h3 align="center">Empowering Collaboration and Code Sharing for Developer.</h3>
 
 - 📫 How to reach me **shreyasrk0111@gmail.com**
 
